@@ -80,6 +80,13 @@ ellipse(322, 234, 10);
 fill(255, 255, 255);
 ellipse(427, 234, 10);
 
+// Näsa
+fill(0, 0, 0);
+ellipse(387, 300, 6);
+
+fill(0, 0, 0);
+ellipse(367, 300, 6);
+
 // läppar
 push();
 translate(27, -25);
